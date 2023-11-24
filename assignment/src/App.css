@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.App{
+  font-family: 'Kanit', sans-serif;
+}
+button {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: white;
+  color: black;
+  
+}
