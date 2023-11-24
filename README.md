@@ -45,4 +45,3 @@ Functionality: Provides common styles that can be used across different componen
 Description: Main entry point for rendering the React application.
 Functionality: Renders the App component into the root HTML element.
 
-This structure is based on the assumption that you have a public folder for serving static assets, and you might also have a src folder for organizing your source code. The project uses React components, a context for state management, and CSS for styling. The Modal component dynamically adjusts its content based on the action type (edit or delete).
