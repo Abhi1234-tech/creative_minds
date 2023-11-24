@@ -1,9 +1,18 @@
 📁 src
-
-📁 components
 |------📄 App.jsx
 Description: The main entry point of the application.
 Functionality: Renders the FetchAPI component, which wraps the Table component.
+
+|------📄 App.css
+Description: Global stylesheet for the entire application.
+Functionality: Provides common styles that can be used across different components.
+
+|------📄 index.js
+Description: Main entry point for rendering the React application.
+Functionality: Renders the App component into the root HTML element.
+
+📁 components
+
 
 |------📄 Table.jsx
 Description: Component responsible for rendering the table with data fetched from the API.
@@ -37,11 +46,5 @@ Functionality: Provides styles for the table structure and appearance.
 Description: Stylesheet for the Modal component.
 Functionality: Provides styles for the modal appearance and responsiveness.
 
-|------📄 App.css
-Description: Global stylesheet for the entire application.
-Functionality: Provides common styles that can be used across different components.
 
-|------📄 index.js
-Description: Main entry point for rendering the React application.
-Functionality: Renders the App component into the root HTML element.
 
